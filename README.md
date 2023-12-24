@@ -1,4 +1,4 @@
-# ToMLIA　or Touring Spot
+# Touring Spot
 ツーリングスポットの特定アプリ
 # URL
 
